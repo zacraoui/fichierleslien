@@ -1,0 +1,14 @@
+pour integrer un project sur reposotory
+1- git init
+2- git add .
+3- git commit -m "first commit"
+4- git branch -M master
+5- git remote add origin https://github.com/zacraoui/soutienscolaireapi.git
+6- git push -u origin master
+
+POUR CLONE UN PROJET( installer un project from github)
+https://www.youtube.com/watch?v=X5e3xQBeqf8
+
+initiliser api dans un autre project
+
+https://www.youtube.com/watch?v=L-PCVFvhDZ0
